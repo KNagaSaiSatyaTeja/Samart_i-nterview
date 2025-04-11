@@ -27,6 +27,8 @@ public:
 
     double divide(double a, double b)
     {
+        double division=a/b;
+        return division;
     }
 };
 
