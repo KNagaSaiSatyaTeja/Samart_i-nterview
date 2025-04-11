@@ -21,6 +21,8 @@ public:
 
     double multiply(double a, double b)
     {
+        double prod=a*b;
+        return prod;
     }
 
     double divide(double a, double b)
